@@ -10,6 +10,7 @@
   <a href="https://twitter.com/omidsard" target="_blank"><img src="https://img.shields.io/twitter/follow/omidsard?style=for-the-badge"></a>
   <a href="https://www.instagram.com/omid_sar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
   <a href="mailto:mr.omid.sardari@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://omidsar.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> 
   <!-- Update this part with your actual Medium or Dev.to profile if you have one, or remove it if not applicable -->
   <!-- <a href="https://dev.to/omid-sar" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>  -->
   <!-- <a href="https://medium.com/@omid-sar" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> -->
