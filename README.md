@@ -20,8 +20,11 @@
 <div align="center">
   <h2>Stats</h2>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omid-sar&theme=dracula&show_icons=true" alt="GitHub Stats for omid-sar" width="700">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omid-sar&layout=compact&theme=dracula" alt="Programming Languages Stats for omid-sar" width="700">
-  <!-- Consider customizing your GitHub stats and streaks to fit your profile and interests -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=omid-sar&theme=dracula" alt="Contribution Stats for iuliagroza" width="700">
+</div>
+
+
+<div align="center">
 </div>
 <div align="center">
   <h4>*DISCLAIMER*</h4>
