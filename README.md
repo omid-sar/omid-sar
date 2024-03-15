@@ -33,3 +33,13 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/omid-sar/omid-sar/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+<div align="center">
+  <h4>*DISCLAIMER*</h4>
+  <h2>Hungriest snake ever</h2> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iuliagroza/iuliagroza/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iuliagroza/iuliagroza/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iuliagroza/iuliagroza/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
