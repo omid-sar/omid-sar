@@ -27,7 +27,7 @@
 </div>
 <div align="center">
   <h4>*DISCLAIMER*</h4>
-  <h2>MY GITHUB GATE KEEPER</h2> 
+  <h2>MY GITHUB GATEKEEPER</h2> 
   <!-- Customize or remove the snake animation if you prefer something else -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omid-sar/omid-sar/output/github-contribution-grid-snake-dark.svg">
