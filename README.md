@@ -14,7 +14,7 @@
   <!-- Update this part with your actual Medium or Dev.to profile if you have one, or remove it if not applicable -->
   <!-- <a href="https://dev.to/omid-sar" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>  -->
   <!-- <a href="https://medium.com/@omid-sar" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> -->
-<p>I am a <b>MLOps<b> enthusiast with a rich five-year background in <b>data science<b> and <b>business analytics<b>, complemented by a vigorous engagement with reinforcement learning and RLHF. My expertise lies in shepherding end-to-end projects, leveraging cloud infrastructures like AWS to deploy robust NLP solutions. I'm known for my strategic insights and the ability to spearhead projects that blend data analytics with machine learning to foster collaborative innovation and technological advances.</p>
+<p>I am a <b>MLOps<b> enthusiast with a rich five-year background in <b>data science<b> and <b>business analytics<b>, complemented by an active engagement with reinforcement learning and RLHF. My expertise lies in shepherding end-to-end projects, leveraging cloud infrastructures like AWS to deploy robust NLP solutions. I'm known for my strategic insights and the ability to spearhead projects that blend data analytics with machine learning to foster collaborative innovation and technological advances.</p>
   <p>Feel free to reach out to me for collaboration, sharing knowledge, or just for a chat about the latest trends in AI and technology.</p>
 </div>
 <div align="center">
