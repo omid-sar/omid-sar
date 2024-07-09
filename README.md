@@ -14,8 +14,7 @@
   <!-- Update this part with your actual Medium or Dev.to profile if you have one, or remove it if not applicable -->
   <!-- <a href="https://dev.to/omid-sar" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>  -->
   <!-- <a href="https://medium.com/@omid-sar" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> -->
-<p>I am a <b>MLOps<b> enthusiast with a rich five-year background in <b>data science<b> and <b>business analytics<b>, complemented by an active engagement with reinforcement learning and RLHF. My expertise lies in shepherding end-to-end projects, leveraging cloud infrastructures like AWS to deploy robust NLP solutions. I'm known for my strategic insights and the ability to spearhead projects that blend data analytics with machine learning to foster collaborative innovation and technological advances.</p>
-  <p>Feel free to reach out to me for collaboration, sharing knowledge, or just for a chat about the latest trends in AI and technology.</p>
+<p>I am a <b>ML Engineer & MLOps Specialist</b> with over four years of experience in machine learning and more than seven years as a data scientist and business analyst. My expertise is enhanced by active engagement with time series analysis, NLP, and generative models, along with techniques like RLHF, model fine-tuning, and RAG. I have managed end-to-end projects, leveraging cloud infrastructures such as AWS to deploy robust NLP solutions and possess strong experience in working with GPU clusters for model training, including platforms like Lambda and AWS. Known for my strategic insights, I excel at leading projects that integrate data analytics with machine learning to drive collaborative innovation and technological advances.</p>
 </div>
 <div align="center">
   <h2>Stats</h2>
