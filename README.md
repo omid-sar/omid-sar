@@ -1,37 +1,76 @@
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Omid+Sardari+👋;Founder+of+Memory+Bridge+🧠;Senior+ML+Engineer+🇨🇦;AI+Safety+Researcher+🛡️&center=true&font=Fira+Code&size=26&color=36BCF7&pause=1000&width=435">
   </a>
 </h1>
+
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/omidsar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://twitter.com/omidsard" target="_blank"><img src="https://img.shields.io/twitter/follow/omidsard?style=for-the-badge"></a>
-  <a href="https://www.instagram.com/omid_sar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-  <a href="mailto:mr.omid.sardari@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://omidsar.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> 
-  <!-- Update this part with your actual Medium or Dev.to profile if you have one, or remove it if not applicable -->
-  <!-- <a href="https://dev.to/omid-sar" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>  -->
-  <!-- <a href="https://medium.com/@omid-sar" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> -->
-<p>I am a <b>ML Engineer & MLOps Specialist</b> with over four years of experience in machine learning and more than seven years as a data scientist and business analyst. My expertise is enhanced by active engagement with time series analysis, NLP, and generative models, along with techniques like RLHF, model fine-tuning, and RAG. I have managed end-to-end projects, leveraging cloud infrastructures such as AWS to deploy robust NLP solutions and possess strong experience in working with GPU clusters for model training, including platforms like Lambda and AWS. Known for my strategic insights, I excel at leading projects that integrate data analytics with machine learning to drive collaborative innovation and technological advances.</p>
-</div>
-<div align="center">
-  <h2>Stats</h2>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omid-sar&theme=dracula&show_icons=true" alt="GitHub Stats for omid-sar" width="700">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=omid-sar&theme=dracula" alt="Contribution Stats for iuliagroza" width="700">
+  <a href="https://memorybridgeai.com" target="_blank">
+    <img src="https://img.shields.io/badge/Memory_Bridge-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=8A2BE2">
+  </a>
+
+  <a href="https://www.linkedin.com/in/omidsardari/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5">
+  </a> 
+
+  <a href="https://twitter.com/omidsard" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000">
+  </a>
+
+  <a href="https://omidsar.medium.com" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E">
+  </a> 
+
+  <a href="mailto:mr.omid.sardari@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335">
+  </a>
 </div>
 
+<br/>
 
 <div align="center">
+  <p align="left">
+    I am the <b>Founder of <a href="https://memorybridgeai.com">Memory Bridge</a></b> and a <b>Senior ML Engineer</b> based in <b>Ottawa, Canada 🇨🇦</b>.
+    <br><br>
+    My work sits at the intersection of <b>System Architecture, Product Strategy, and Applied AI</b>. I build privacy-first memory layers that give LLMs long-term context, bridging the gap between raw model capability and reliable, economic business utility.
+    <br><br>
+    Alongside product work, I’m active in AI safety learning and community circles (including <b>BlueDot Impact</b>), where I focus on practical questions around trustworthy systems, alignment constraints, privacy, and real-world deployment trade-offs.
+  </p>
 </div>
+
+<br/>
+
 <div align="center">
-  <h4>*DISCLAIMER*</h4>
-  <h2>MY GITHUB GATEKEEPER</h2> 
-  <!-- Customize or remove the snake animation if you prefer something else -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omid-sar/omid-sar/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omid-sar/omid-sar/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/omid-sar/omid-sar/output/github-contribution-grid-snake.svg">
-  </picture>
+  <h3>🔭 Strategic & Technical Focus</h3>
+  <table>
+    <tr>
+      <td align="left" width="50%">
+        <b>🧠 Context-Aware AI Agents</b>
+        <br>
+        Architecting provider-agnostic memory vaults and retrieval systems. My focus is on solving the "amnesia problem" in LLMs to enable persistent, personalized user experiences while maintaining strict privacy boundaries.
+      </td>
+      <td align="left" width="50%">
+         <b>🛠 Production Engineering</b>
+         <br>
+         End-to-end engineering for <b>SOTA open-weights</b> (Llama 3.x, Mistral, Qwen). My work goes beyond standard SFT, leveraging <b>Preference Alignment (DPO, PPO)</b> and advanced PEFT strategies to steer model behaviors. I optimize for high-throughput serving (vLLM, TGI) and economic scaling on AWS/Kubernetes.
+      </td>
+    </tr>
+    <tr>
+      <td align="left" width="50%">
+        <b>🛡️ AI Safety & Governance</b>
+        <br>
+        Researching alignment constraints, interpretability, and the societal impact of autonomous agents. I work to translate theoretical safety principles into concrete engineering guardrails.
+      </td>
+      <td align="left" width="50%">
+         <b>🚀 Product & Strategy</b>
+         <br>
+         Aligning technical architecture with business value. I leverage techno-economic analysis to build AI products that are not just technically novel, but commercially viable and user-centric.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <br>
+  <i>Building the memory layer for the next generation of AI.</i>
 </div>
